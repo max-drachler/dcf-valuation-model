@@ -1,0 +1,22 @@
+{
+  "company": "Example Industrial Tech Co.",
+  "base_revenue": 3000,
+  "revenue_growth": [0.06, 0.06, 0.05, 0.05, 0.04],
+  "ebitda_margin": [0.240, 0.245, 0.250, 0.255, 0.260],
+  "da_pct_revenue": 0.03,
+  "capex_pct_revenue": 0.03,
+  "nwc_pct_revenue": 0.10,
+  "base_nwc": 300,
+  "tax_rate": 0.23,
+  "risk_free_rate": 0.043,
+  "equity_risk_premium": 0.055,
+  "beta": 1.10,
+  "pre_tax_cost_of_debt": 0.055,
+  "market_cap": 9000,
+  "total_debt": 2200,
+  "cash": 400,
+  "shares_outstanding": 150,
+  "terminal_growth": 0.025,
+  "exit_multiple": 12.0,
+  "mid_year_convention": true
+}
