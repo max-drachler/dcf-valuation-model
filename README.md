@@ -32,7 +32,7 @@ WACC is 9.15% (cost of equity 10.35% from CAPM, 5.5% pre-tax cost of debt).
 
 ~~~mermaid
 xychart-beta
-    title "EBITDA (light) and Unlevered FCF (dark), $mm"
+    title "EBITDA (back) and Unlevered FCF (front), $mm"
     x-axis ["Year 1", "Year 2", "Year 3", "Year 4", "Year 5"]
     y-axis "$mm" 0 --> 1100
     bar [763, 826, 885, 948, 1005]
